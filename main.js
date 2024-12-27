@@ -14,6 +14,7 @@ const coldJokes = [
   "Soğuk havada bir eşeğe neden sarıldım? Isınmak için bir sebep lazımdı.",
   "Buzdolabı neden hep cool? Çünkü her zaman serin takılır.",
   "Soğukta otobüsü bekleyenlere ne denir? Donör.",
+  "Kardan adam neden bankada çalışamaz? Çünkü kredisi donmuş!"
 ];
 
 const rl = readline.createInterface({
